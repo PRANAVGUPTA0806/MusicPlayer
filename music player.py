@@ -11,7 +11,7 @@ canvas.geometry("800x900")  # Adjusted to match the original size
 canvas.config(bg='black')
 
 # Path to music files and images
-rootpath = "D:\\MusicPlayer-main\\songs"
+rootpath = "D:\\my-projects\MusicPlayer\\songs"
 pattern = "*.mp3"
 images_path = "images"
 
